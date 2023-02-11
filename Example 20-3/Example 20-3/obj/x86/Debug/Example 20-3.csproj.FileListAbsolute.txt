@@ -1,0 +1,18 @@
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\bin\Debug\Example 20-3.exe
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\bin\Debug\Example 20-3.pdb
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\obj\x86\Debug\Example_20_3.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\obj\x86\Debug\Example_20_3.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\obj\x86\Debug\Example 20-3.exe
+C:\Users\M-H Computer\Desktop\Example 20-3\Example 20-3\obj\x86\Debug\Example 20-3.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\bin\Debug\Example 20-3.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\bin\Debug\Example 20-3.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\obj\x86\Debug\Example 20-3.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\obj\x86\Debug\Example_20_3.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\obj\x86\Debug\Example_20_3.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\obj\x86\Debug\Example 20-3.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\obj\x86\Debug\Example 20-3.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\obj\x86\Debug\Example 20-3.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part20\Example 20-3\Example 20-3\obj\x86\Debug\Example 20-3.pdb
